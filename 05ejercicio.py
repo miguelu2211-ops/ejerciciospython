@@ -1,0 +1,1 @@
+print ("un automovil gasta 9 litros de gasolina cada 120 km. si quedan en el deposito 6 litros, ¿cuantos kilometros podra recorrer?")

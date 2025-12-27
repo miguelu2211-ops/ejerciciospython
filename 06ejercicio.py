@@ -1,0 +1,1 @@
+print ("un libro de 80 paginas cada una tiene 35 lineas, ¿cuantas paginas tendra el mismo libro si en cada una se colocan 40 lineas?")

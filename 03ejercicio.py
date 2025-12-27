@@ -1,0 +1,1 @@
+print ("Durante 70 dias de tranajo Ana gano $3500, ¿cuanto ganaria si trabaja 12 dias mas?")

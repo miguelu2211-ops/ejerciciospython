@@ -1,0 +1,1 @@
+print("el precio de 25 latas de aceite es $248,¿cuantas latas se podran comprar con $1240?")

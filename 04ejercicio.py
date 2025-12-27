@@ -1,0 +1,1 @@
+print ("una llave abierta de 6 horas diarias durante 7 dias arrojo 6120 litros de agua, ¿cuantos litros arrojara durante 14 dias si se abre 4 horas diarias?")
